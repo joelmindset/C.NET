@@ -14,8 +14,8 @@ namespace Boolean_logic
             Console.Write("What is your age?: ");
             int age = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine(age);
-            // creat boolean for dui
-            Console.Write("have you ever had a Dui?: ");
+            // create boolean for DUI
+            Console.Write("have you ever had a DUI?: ");
             string dui = Console.ReadLine();
             dui = dui.ToLower();
             bool hasDUI = false;
@@ -27,7 +27,7 @@ namespace Boolean_logic
                 hasDUI = true;
             } else
             {
-                Console.WriteLine("Please ansewr \"yes\" or \"no\".");
+                Console.WriteLine("Please answer \"yes\" or \"no\".");
             }
             Console.WriteLine(!hasDUI);
             Console.Write("How many speeding thickets do you have?: ");

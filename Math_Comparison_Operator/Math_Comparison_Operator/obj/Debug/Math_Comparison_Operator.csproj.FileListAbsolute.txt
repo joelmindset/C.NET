@@ -1,0 +1,7 @@
+C:\Users\joelm\source\repos\Math_Comparison_Operator\Math_Comparison_Operator\bin\Debug\Math_Comparison_Operator.exe.config
+C:\Users\joelm\source\repos\Math_Comparison_Operator\Math_Comparison_Operator\bin\Debug\Math_Comparison_Operator.exe
+C:\Users\joelm\source\repos\Math_Comparison_Operator\Math_Comparison_Operator\bin\Debug\Math_Comparison_Operator.pdb
+C:\Users\joelm\source\repos\Math_Comparison_Operator\Math_Comparison_Operator\obj\Debug\Math_Comparison_Operator.csproj.AssemblyReference.cache
+C:\Users\joelm\source\repos\Math_Comparison_Operator\Math_Comparison_Operator\obj\Debug\Math_Comparison_Operator.csproj.CoreCompileInputs.cache
+C:\Users\joelm\source\repos\Math_Comparison_Operator\Math_Comparison_Operator\obj\Debug\Math_Comparison_Operator.exe
+C:\Users\joelm\source\repos\Math_Comparison_Operator\Math_Comparison_Operator\obj\Debug\Math_Comparison_Operator.pdb

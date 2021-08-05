@@ -1,0 +1,7 @@
+C:\Users\joelm\myProjects\C.NET\ConsoleAppSub\ConsoleAppSub\bin\Debug\ConsoleAppSub.exe.config
+C:\Users\joelm\myProjects\C.NET\ConsoleAppSub\ConsoleAppSub\bin\Debug\ConsoleAppSub.exe
+C:\Users\joelm\myProjects\C.NET\ConsoleAppSub\ConsoleAppSub\bin\Debug\ConsoleAppSub.pdb
+C:\Users\joelm\myProjects\C.NET\ConsoleAppSub\ConsoleAppSub\obj\Debug\ConsoleAppSub.csproj.AssemblyReference.cache
+C:\Users\joelm\myProjects\C.NET\ConsoleAppSub\ConsoleAppSub\obj\Debug\ConsoleAppSub.csproj.CoreCompileInputs.cache
+C:\Users\joelm\myProjects\C.NET\ConsoleAppSub\ConsoleAppSub\obj\Debug\ConsoleAppSub.exe
+C:\Users\joelm\myProjects\C.NET\ConsoleAppSub\ConsoleAppSub\obj\Debug\ConsoleAppSub.pdb

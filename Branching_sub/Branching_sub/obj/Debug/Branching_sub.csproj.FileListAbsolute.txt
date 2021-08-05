@@ -5,3 +5,10 @@ C:\Users\joelm\source\repos\Branching_sub\Branching_sub\obj\Debug\Branching_sub.
 C:\Users\joelm\source\repos\Branching_sub\Branching_sub\obj\Debug\Branching_sub.csproj.CoreCompileInputs.cache
 C:\Users\joelm\source\repos\Branching_sub\Branching_sub\obj\Debug\Branching_sub.exe
 C:\Users\joelm\source\repos\Branching_sub\Branching_sub\obj\Debug\Branching_sub.pdb
+C:\Users\joelm\myProjects\C.NET\Branching_sub\Branching_sub\bin\Debug\Branching_sub.exe.config
+C:\Users\joelm\myProjects\C.NET\Branching_sub\Branching_sub\bin\Debug\Branching_sub.exe
+C:\Users\joelm\myProjects\C.NET\Branching_sub\Branching_sub\bin\Debug\Branching_sub.pdb
+C:\Users\joelm\myProjects\C.NET\Branching_sub\Branching_sub\obj\Debug\Branching_sub.csproj.AssemblyReference.cache
+C:\Users\joelm\myProjects\C.NET\Branching_sub\Branching_sub\obj\Debug\Branching_sub.csproj.CoreCompileInputs.cache
+C:\Users\joelm\myProjects\C.NET\Branching_sub\Branching_sub\obj\Debug\Branching_sub.exe
+C:\Users\joelm\myProjects\C.NET\Branching_sub\Branching_sub\obj\Debug\Branching_sub.pdb

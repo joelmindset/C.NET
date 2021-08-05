@@ -18,8 +18,7 @@ namespace ConsoleAppSub
             {
                 switch(color)
                 {
-                    case "green":
-                        Console.WriteLine("You guess right!");
+                    case "green":                        
                         guessColor = true;
                         break;
                     default:
@@ -28,6 +27,7 @@ namespace ConsoleAppSub
                         break;
                 }
             }
+            Console.WriteLine("You guess right!");
             Console.WriteLine("Lets guess another color.");
             string color2 = Console.ReadLine();
             bool guessColor2 = color2 == "blue";
@@ -44,7 +44,7 @@ namespace ConsoleAppSub
                         break;
                 }
             while (!guessColor);
-            Console.WriteLine("You guess right! You've wont the game.");
+            Console.WriteLine("You guess right! You've won the game.");
             Console.ReadLine();
         }
         

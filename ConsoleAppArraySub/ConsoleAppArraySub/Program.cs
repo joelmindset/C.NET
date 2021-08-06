@@ -32,7 +32,7 @@ namespace ConsoleAppArraySub
             }
             // number array
             int[] numberArray = { 7, 55, 96, 15, 82, 38 };
-            Console.WriteLine("I'm think of 6 cards with different numbers can you pick my favorite number 15? Please only pick 0-5 for the 6 cards.");
+            Console.WriteLine("I'm have 6 cards with different numbers can you pick my favorite number 15? Please only pick 0-5 for the 6 cards.");
             int numberGuess = Convert.ToInt32(Console.ReadLine());
             int currectGuess = 3;
             // if statements

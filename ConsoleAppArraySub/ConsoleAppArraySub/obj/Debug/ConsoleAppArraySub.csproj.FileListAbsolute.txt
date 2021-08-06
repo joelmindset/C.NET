@@ -5,3 +5,10 @@ C:\Users\joelm\source\repos\ConsoleAppArraySub\ConsoleAppArraySub\bin\Debug\Cons
 C:\Users\joelm\source\repos\ConsoleAppArraySub\ConsoleAppArraySub\bin\Debug\ConsoleAppArraySub.pdb
 C:\Users\joelm\source\repos\ConsoleAppArraySub\ConsoleAppArraySub\obj\Debug\ConsoleAppArraySub.exe
 C:\Users\joelm\source\repos\ConsoleAppArraySub\ConsoleAppArraySub\obj\Debug\ConsoleAppArraySub.pdb
+C:\Users\joelm\myProjects\C.NET\ConsoleAppArraySub\ConsoleAppArraySub\bin\Debug\ConsoleAppArraySub.exe.config
+C:\Users\joelm\myProjects\C.NET\ConsoleAppArraySub\ConsoleAppArraySub\bin\Debug\ConsoleAppArraySub.exe
+C:\Users\joelm\myProjects\C.NET\ConsoleAppArraySub\ConsoleAppArraySub\bin\Debug\ConsoleAppArraySub.pdb
+C:\Users\joelm\myProjects\C.NET\ConsoleAppArraySub\ConsoleAppArraySub\obj\Debug\ConsoleAppArraySub.csproj.AssemblyReference.cache
+C:\Users\joelm\myProjects\C.NET\ConsoleAppArraySub\ConsoleAppArraySub\obj\Debug\ConsoleAppArraySub.csproj.CoreCompileInputs.cache
+C:\Users\joelm\myProjects\C.NET\ConsoleAppArraySub\ConsoleAppArraySub\obj\Debug\ConsoleAppArraySub.exe
+C:\Users\joelm\myProjects\C.NET\ConsoleAppArraySub\ConsoleAppArraySub\obj\Debug\ConsoleAppArraySub.pdb

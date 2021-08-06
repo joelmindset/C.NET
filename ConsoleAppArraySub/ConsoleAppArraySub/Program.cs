@@ -45,9 +45,8 @@ namespace ConsoleAppArraySub
                     {
                         Console.WriteLine("Invalid entry, please only enter a number 0 to 5.");
                     }
-                    Console.Write("You guessed: ");
-                    Console.Write(numberArray[numberGuess]);
-                    Console.WriteLine(". Please guess again...");
+                    Console.WriteLine("Wrong card.");
+                    Console.WriteLine("Please guess again...");
                     numberGuess = Convert.ToInt32(Console.ReadLine());
                 }  
             }

@@ -1,0 +1,7 @@
+C:\Users\joelm\source\repos\Strings_Integers\Strings_Integers\bin\Debug\Strings_Integers.exe.config
+C:\Users\joelm\source\repos\Strings_Integers\Strings_Integers\bin\Debug\Strings_Integers.exe
+C:\Users\joelm\source\repos\Strings_Integers\Strings_Integers\bin\Debug\Strings_Integers.pdb
+C:\Users\joelm\source\repos\Strings_Integers\Strings_Integers\obj\Debug\Strings_Integers.csproj.AssemblyReference.cache
+C:\Users\joelm\source\repos\Strings_Integers\Strings_Integers\obj\Debug\Strings_Integers.csproj.CoreCompileInputs.cache
+C:\Users\joelm\source\repos\Strings_Integers\Strings_Integers\obj\Debug\Strings_Integers.exe
+C:\Users\joelm\source\repos\Strings_Integers\Strings_Integers\obj\Debug\Strings_Integers.pdb

@@ -1,0 +1,7 @@
+C:\Users\joelm\source\repos\Methods_sub\Methods_sub\bin\Debug\Methods_sub.exe.config
+C:\Users\joelm\source\repos\Methods_sub\Methods_sub\bin\Debug\Methods_sub.exe
+C:\Users\joelm\source\repos\Methods_sub\Methods_sub\bin\Debug\Methods_sub.pdb
+C:\Users\joelm\source\repos\Methods_sub\Methods_sub\obj\Debug\Methods_sub.csproj.AssemblyReference.cache
+C:\Users\joelm\source\repos\Methods_sub\Methods_sub\obj\Debug\Methods_sub.csproj.CoreCompileInputs.cache
+C:\Users\joelm\source\repos\Methods_sub\Methods_sub\obj\Debug\Methods_sub.exe
+C:\Users\joelm\source\repos\Methods_sub\Methods_sub\obj\Debug\Methods_sub.pdb

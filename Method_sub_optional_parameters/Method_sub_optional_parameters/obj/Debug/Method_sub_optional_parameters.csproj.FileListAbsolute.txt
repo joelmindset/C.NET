@@ -1,0 +1,7 @@
+C:\Users\joelm\myProjects\C.NET\Method_sub_optional_parameters\Method_sub_optional_parameters\obj\Debug\Method_sub_optional_parameters.csproj.AssemblyReference.cache
+C:\Users\joelm\myProjects\C.NET\Method_sub_optional_parameters\Method_sub_optional_parameters\obj\Debug\Method_sub_optional_parameters.csproj.CoreCompileInputs.cache
+C:\Users\joelm\myProjects\C.NET\Method_sub_optional_parameters\Method_sub_optional_parameters\bin\Debug\Method_sub_optional_parameters.exe.config
+C:\Users\joelm\myProjects\C.NET\Method_sub_optional_parameters\Method_sub_optional_parameters\bin\Debug\Method_sub_optional_parameters.exe
+C:\Users\joelm\myProjects\C.NET\Method_sub_optional_parameters\Method_sub_optional_parameters\bin\Debug\Method_sub_optional_parameters.pdb
+C:\Users\joelm\myProjects\C.NET\Method_sub_optional_parameters\Method_sub_optional_parameters\obj\Debug\Method_sub_optional_parameters.exe
+C:\Users\joelm\myProjects\C.NET\Method_sub_optional_parameters\Method_sub_optional_parameters\obj\Debug\Method_sub_optional_parameters.pdb

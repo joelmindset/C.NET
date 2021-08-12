@@ -1,0 +1,7 @@
+C:\Users\joelm\source\repos\MainMethodSub\MainMethodSub\bin\Debug\MainMethodSub.exe.config
+C:\Users\joelm\source\repos\MainMethodSub\MainMethodSub\bin\Debug\MainMethodSub.exe
+C:\Users\joelm\source\repos\MainMethodSub\MainMethodSub\bin\Debug\MainMethodSub.pdb
+C:\Users\joelm\source\repos\MainMethodSub\MainMethodSub\obj\Debug\MainMethodSub.csproj.AssemblyReference.cache
+C:\Users\joelm\source\repos\MainMethodSub\MainMethodSub\obj\Debug\MainMethodSub.csproj.CoreCompileInputs.cache
+C:\Users\joelm\source\repos\MainMethodSub\MainMethodSub\obj\Debug\MainMethodSub.exe
+C:\Users\joelm\source\repos\MainMethodSub\MainMethodSub\obj\Debug\MainMethodSub.pdb

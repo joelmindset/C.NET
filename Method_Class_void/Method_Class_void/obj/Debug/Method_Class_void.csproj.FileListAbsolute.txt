@@ -1,0 +1,7 @@
+C:\Users\joelm\myProjects\C.NET\Method_Class_void\Method_Class_void\bin\Debug\Method_Class_void.exe.config
+C:\Users\joelm\myProjects\C.NET\Method_Class_void\Method_Class_void\bin\Debug\Method_Class_void.exe
+C:\Users\joelm\myProjects\C.NET\Method_Class_void\Method_Class_void\bin\Debug\Method_Class_void.pdb
+C:\Users\joelm\myProjects\C.NET\Method_Class_void\Method_Class_void\obj\Debug\Method_Class_void.csproj.AssemblyReference.cache
+C:\Users\joelm\myProjects\C.NET\Method_Class_void\Method_Class_void\obj\Debug\Method_Class_void.csproj.CoreCompileInputs.cache
+C:\Users\joelm\myProjects\C.NET\Method_Class_void\Method_Class_void\obj\Debug\Method_Class_void.exe
+C:\Users\joelm\myProjects\C.NET\Method_Class_void\Method_Class_void\obj\Debug\Method_Class_void.pdb

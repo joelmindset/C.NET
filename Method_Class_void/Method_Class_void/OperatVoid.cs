@@ -10,6 +10,7 @@ namespace Method_Class_void
     {
         public void MethodOper(int X, int A)
         {
+            // do math on first integer and write to console 2nd
             int mathMethod = X * 2;
             Console.WriteLine(A);
         }

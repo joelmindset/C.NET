@@ -1,0 +1,7 @@
+C:\Users\joelm\source\repos\ClassSub\ClassSub\bin\Debug\ClassSub.exe.config
+C:\Users\joelm\source\repos\ClassSub\ClassSub\bin\Debug\ClassSub.exe
+C:\Users\joelm\source\repos\ClassSub\ClassSub\bin\Debug\ClassSub.pdb
+C:\Users\joelm\source\repos\ClassSub\ClassSub\obj\Debug\ClassSub.csproj.AssemblyReference.cache
+C:\Users\joelm\source\repos\ClassSub\ClassSub\obj\Debug\ClassSub.csproj.CoreCompileInputs.cache
+C:\Users\joelm\source\repos\ClassSub\ClassSub\obj\Debug\ClassSub.exe
+C:\Users\joelm\source\repos\ClassSub\ClassSub\obj\Debug\ClassSub.pdb

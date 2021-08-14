@@ -8,9 +8,11 @@ namespace Method_and_Objects
 {
     public class Person
     {
+        // create objects
         public string FirstName { get; set; }
         public string LastName { get; set; }
-    
+        
+        // present full name to console
         public void SayName(string FirstName, string LastName)
         {
             Console.WriteLine("Name: {0} {1}", FirstName, LastName);

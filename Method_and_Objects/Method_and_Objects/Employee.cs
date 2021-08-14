@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Method_and_Objects
 {
+    // Employee inherited Person
     class Employee : Person
     {
         public int Id { get; set; }

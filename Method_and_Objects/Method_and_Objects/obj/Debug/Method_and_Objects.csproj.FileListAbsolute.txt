@@ -1,0 +1,7 @@
+C:\Users\joelm\myProjects\C.NET\Method_and_Objects\Method_and_Objects\bin\Debug\Method_and_Objects.exe.config
+C:\Users\joelm\myProjects\C.NET\Method_and_Objects\Method_and_Objects\bin\Debug\Method_and_Objects.exe
+C:\Users\joelm\myProjects\C.NET\Method_and_Objects\Method_and_Objects\bin\Debug\Method_and_Objects.pdb
+C:\Users\joelm\myProjects\C.NET\Method_and_Objects\Method_and_Objects\obj\Debug\Method_and_Objects.csproj.AssemblyReference.cache
+C:\Users\joelm\myProjects\C.NET\Method_and_Objects\Method_and_Objects\obj\Debug\Method_and_Objects.csproj.CoreCompileInputs.cache
+C:\Users\joelm\myProjects\C.NET\Method_and_Objects\Method_and_Objects\obj\Debug\Method_and_Objects.exe
+C:\Users\joelm\myProjects\C.NET\Method_and_Objects\Method_and_Objects\obj\Debug\Method_and_Objects.pdb

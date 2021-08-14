@@ -1,0 +1,14 @@
+C:\Users\joelm\source\repos\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\Users\joelm\source\repos\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
+C:\Users\joelm\source\repos\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Users\joelm\source\repos\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
+C:\Users\joelm\source\repos\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\joelm\source\repos\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
+C:\Users\joelm\source\repos\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
+C:\Users\joelm\myProjects\C.NET\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\Users\joelm\myProjects\C.NET\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
+C:\Users\joelm\myProjects\C.NET\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Users\joelm\myProjects\C.NET\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
+C:\Users\joelm\myProjects\C.NET\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\joelm\myProjects\C.NET\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
+C:\Users\joelm\myProjects\C.NET\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb

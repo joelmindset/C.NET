@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace Abstract_Class_Sub
 {
-    public abstract class Person
+    public class Person
     {
+        
         public string firstName { get; set; }
         public string lastName { get; set; }
 

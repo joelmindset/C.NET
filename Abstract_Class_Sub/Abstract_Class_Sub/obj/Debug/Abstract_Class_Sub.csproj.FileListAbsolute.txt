@@ -5,3 +5,10 @@ C:\Users\joelm\source\repos\Abstract_Class_Sub\Abstract_Class_Sub\obj\Debug\Abst
 C:\Users\joelm\source\repos\Abstract_Class_Sub\Abstract_Class_Sub\obj\Debug\Abstract_Class_Sub.csproj.CoreCompileInputs.cache
 C:\Users\joelm\source\repos\Abstract_Class_Sub\Abstract_Class_Sub\obj\Debug\Abstract_Class_Sub.exe
 C:\Users\joelm\source\repos\Abstract_Class_Sub\Abstract_Class_Sub\obj\Debug\Abstract_Class_Sub.pdb
+C:\Users\joelm\myProjects\C.NET\Abstract_Class_Sub\Abstract_Class_Sub\bin\Debug\Abstract_Class_Sub.exe.config
+C:\Users\joelm\myProjects\C.NET\Abstract_Class_Sub\Abstract_Class_Sub\bin\Debug\Abstract_Class_Sub.exe
+C:\Users\joelm\myProjects\C.NET\Abstract_Class_Sub\Abstract_Class_Sub\bin\Debug\Abstract_Class_Sub.pdb
+C:\Users\joelm\myProjects\C.NET\Abstract_Class_Sub\Abstract_Class_Sub\obj\Debug\Abstract_Class_Sub.csproj.AssemblyReference.cache
+C:\Users\joelm\myProjects\C.NET\Abstract_Class_Sub\Abstract_Class_Sub\obj\Debug\Abstract_Class_Sub.csproj.CoreCompileInputs.cache
+C:\Users\joelm\myProjects\C.NET\Abstract_Class_Sub\Abstract_Class_Sub\obj\Debug\Abstract_Class_Sub.exe
+C:\Users\joelm\myProjects\C.NET\Abstract_Class_Sub\Abstract_Class_Sub\obj\Debug\Abstract_Class_Sub.pdb

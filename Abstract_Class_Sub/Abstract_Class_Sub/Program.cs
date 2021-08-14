@@ -16,7 +16,8 @@ namespace Abstract_Class_Sub
             emp.firstName = "Sample";
             emp.lastName = "Student";
             emp.SayName();
-            Console.ReadLine();
+            emp.Quit();
+        
         }
     }
 }

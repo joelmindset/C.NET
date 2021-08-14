@@ -13,7 +13,7 @@ namespace Method_and_Objects
         public string LastName { get; set; }
         
         // present full name to console
-        public void SayName(string FirstName, string LastName)
+        public void SayName()
         {
             Console.WriteLine("Name: {0} {1}", FirstName, LastName);
         }

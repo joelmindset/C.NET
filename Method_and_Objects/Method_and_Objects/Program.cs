@@ -15,7 +15,7 @@ namespace Method_and_Objects
             // using employee and super persons
             EmpPerson.FirstName = "Sample";
             EmpPerson.LastName = "Student";
-            EmpPerson.SayName(EmpPerson.FirstName, EmpPerson.LastName);
+            EmpPerson.SayName();
             Console.ReadLine();
         }
     }

@@ -1,0 +1,7 @@
+C:\Users\joelm\source\repos\Lambda_sub\Lambda_sub\bin\Debug\Lambda_sub.exe.config
+C:\Users\joelm\source\repos\Lambda_sub\Lambda_sub\bin\Debug\Lambda_sub.exe
+C:\Users\joelm\source\repos\Lambda_sub\Lambda_sub\bin\Debug\Lambda_sub.pdb
+C:\Users\joelm\source\repos\Lambda_sub\Lambda_sub\obj\Debug\Lambda_sub.csproj.AssemblyReference.cache
+C:\Users\joelm\source\repos\Lambda_sub\Lambda_sub\obj\Debug\Lambda_sub.csproj.CoreCompileInputs.cache
+C:\Users\joelm\source\repos\Lambda_sub\Lambda_sub\obj\Debug\Lambda_sub.exe
+C:\Users\joelm\source\repos\Lambda_sub\Lambda_sub\obj\Debug\Lambda_sub.pdb

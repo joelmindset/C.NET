@@ -8,7 +8,7 @@ namespace Operators_sub
 {
     public class Person
     {
-
+        // instance variables
         public string FirstName { get; set; }
         public string LastName { get; set; }
 

@@ -5,3 +5,10 @@ C:\Users\joelm\source\repos\Enums_DayofWeek\Enums_DayofWeek\obj\Debug\Enums_Dayo
 C:\Users\joelm\source\repos\Enums_DayofWeek\Enums_DayofWeek\obj\Debug\Enums_DayofWeek.csproj.CoreCompileInputs.cache
 C:\Users\joelm\source\repos\Enums_DayofWeek\Enums_DayofWeek\obj\Debug\Enums_DayofWeek.exe
 C:\Users\joelm\source\repos\Enums_DayofWeek\Enums_DayofWeek\obj\Debug\Enums_DayofWeek.pdb
+C:\Users\joelm\myProjects\C.NET\Enums_DayofWeek\Enums_DayofWeek\bin\Debug\Enums_DayofWeek.exe.config
+C:\Users\joelm\myProjects\C.NET\Enums_DayofWeek\Enums_DayofWeek\bin\Debug\Enums_DayofWeek.exe
+C:\Users\joelm\myProjects\C.NET\Enums_DayofWeek\Enums_DayofWeek\bin\Debug\Enums_DayofWeek.pdb
+C:\Users\joelm\myProjects\C.NET\Enums_DayofWeek\Enums_DayofWeek\obj\Debug\Enums_DayofWeek.csproj.AssemblyReference.cache
+C:\Users\joelm\myProjects\C.NET\Enums_DayofWeek\Enums_DayofWeek\obj\Debug\Enums_DayofWeek.csproj.CoreCompileInputs.cache
+C:\Users\joelm\myProjects\C.NET\Enums_DayofWeek\Enums_DayofWeek\obj\Debug\Enums_DayofWeek.exe
+C:\Users\joelm\myProjects\C.NET\Enums_DayofWeek\Enums_DayofWeek\obj\Debug\Enums_DayofWeek.pdb

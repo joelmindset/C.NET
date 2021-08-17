@@ -11,10 +11,11 @@ namespace Enums_DayofWeek
         static void Main(string[] args)
         {
             // prompt user 
-            Console.WriteLine("What day of the week is it? Please enter with the first letter capitalized.");
+            Console.WriteLine("What day of the week is it?");
             // object user input
             string userDay = Console.ReadLine();
-            
+            // convert upper
+            userDay = (char.ToUpper(userDay[0]) + userDay.Substring(1));
             DayOfWeek day;
             // switch for user input of day of week
             try
@@ -50,7 +51,7 @@ namespace Enums_DayofWeek
             // if user input wrong return error
             catch (Exception ex)
             {
-                Console.WriteLine("sorry please enter a day of the week with the first letter capitalized. example: \"Tuesday\"");
+                Console.WriteLine("sorry please enter a day of the week. example: \"Tuesday\"");
                 Console.WriteLine(ex.Message);
             }
             Console.ReadLine();

@@ -1,0 +1,7 @@
+C:\Users\joelm\myProjects\C.NET\Constructor_sub\Constructor_sub\bin\Debug\Constructor_sub.exe.config
+C:\Users\joelm\myProjects\C.NET\Constructor_sub\Constructor_sub\bin\Debug\Constructor_sub.exe
+C:\Users\joelm\myProjects\C.NET\Constructor_sub\Constructor_sub\bin\Debug\Constructor_sub.pdb
+C:\Users\joelm\myProjects\C.NET\Constructor_sub\Constructor_sub\obj\Debug\Constructor_sub.csproj.AssemblyReference.cache
+C:\Users\joelm\myProjects\C.NET\Constructor_sub\Constructor_sub\obj\Debug\Constructor_sub.csproj.CoreCompileInputs.cache
+C:\Users\joelm\myProjects\C.NET\Constructor_sub\Constructor_sub\obj\Debug\Constructor_sub.exe
+C:\Users\joelm\myProjects\C.NET\Constructor_sub\Constructor_sub\obj\Debug\Constructor_sub.pdb

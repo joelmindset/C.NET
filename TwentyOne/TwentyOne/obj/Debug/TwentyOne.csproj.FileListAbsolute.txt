@@ -12,3 +12,6 @@ C:\Users\joelm\myProjects\C.NET\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.A
 C:\Users\joelm\myProjects\C.NET\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
 C:\Users\joelm\myProjects\C.NET\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
 C:\Users\joelm\myProjects\C.NET\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
+C:\Users\joelm\myProjects\C.NET\TwentyOne\TwentyOne\bin\Debug\Casino.dll
+C:\Users\joelm\myProjects\C.NET\TwentyOne\TwentyOne\bin\Debug\Casino.pdb
+C:\Users\joelm\myProjects\C.NET\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CopyComplete

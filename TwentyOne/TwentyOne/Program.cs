@@ -1,8 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Casino;
+using Casino.TwentyOne;
 using System.IO;
 
 namespace TwentyOne
@@ -10,8 +8,12 @@ namespace TwentyOne
     class Program
     {
         static void Main(string[] args)
-        {            
-            Console.WriteLine("Welcome to the Grand Hotel and Casino. Let's start by telling me your name.");
+        {
+            const string casinoName = "Grand Hotel and Casino";
+
+            
+            
+            Console.WriteLine("Welcome to the {0}. Let's start by telling me your name.", casinoName);
             string playerName = Console.ReadLine();
             Console.WriteLine("And how much money did you bring today?");
             int bank = Convert.ToInt32(Console.ReadLine());
@@ -20,6 +22,11 @@ namespace TwentyOne
             if (answer == "yes" || answer == "yeah" || answer == "y" || answer == "ya")
             {
                 Player player = new Player(playerName, bank);
+                player.Id = Guid.NewGuid();
+                using (StreamWriter file = new StreamWriter(@"C:\Users\joelm\logs\log.txt", true))
+                {
+                    file.WriteLine(player.Id);           
+                }
                 Game game = new TwentyOneGame();
                 game += player;
                 player.isActivielyPlaying = true;

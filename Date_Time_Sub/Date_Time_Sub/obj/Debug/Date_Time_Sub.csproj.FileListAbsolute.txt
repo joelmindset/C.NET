@@ -1,0 +1,7 @@
+C:\Users\joelm\myProjects\C.NET\Date_Time_Sub\Date_Time_Sub\bin\Debug\Date_Time_Sub.exe.config
+C:\Users\joelm\myProjects\C.NET\Date_Time_Sub\Date_Time_Sub\bin\Debug\Date_Time_Sub.exe
+C:\Users\joelm\myProjects\C.NET\Date_Time_Sub\Date_Time_Sub\bin\Debug\Date_Time_Sub.pdb
+C:\Users\joelm\myProjects\C.NET\Date_Time_Sub\Date_Time_Sub\obj\Debug\Date_Time_Sub.csproj.AssemblyReference.cache
+C:\Users\joelm\myProjects\C.NET\Date_Time_Sub\Date_Time_Sub\obj\Debug\Date_Time_Sub.csproj.CoreCompileInputs.cache
+C:\Users\joelm\myProjects\C.NET\Date_Time_Sub\Date_Time_Sub\obj\Debug\Date_Time_Sub.exe
+C:\Users\joelm\myProjects\C.NET\Date_Time_Sub\Date_Time_Sub\obj\Debug\Date_Time_Sub.pdb

@@ -59,60 +59,62 @@ namespace CarInsurance.Controllers
 
             return View(insuree);
 
-            public decimal CalculateQuote(Insuree insuree)
-            {
-                decimal age = DateTime.Now.Year - insuree.DateOfBirth.Year;
-                insuree.Quote = 50.0m;
-                if (age < 18)
-                {
-                    insuree.Quote += 100;
-                }
-                if (age >= 19 && age < 25)
-                {
-                    insuree.Quote += 50;
-                }
-                if (age > 25)
-                {
-                    insuree.Quote += 25;
-                }
-                // car year quote
-                if (insuree.CarYear < 2000)
-                {
-                    insuree.Quote += 25;
-                }
-                if (insuree.CarYear > 2015)
-                {
-                    insuree.Quote += 25;
-                }
-                // car make and model quote
-                if (insuree.CarMake == "Porsche")
-                {
-                    insuree.Quote += 25;
-                }
-                if (insuree.CarMake == "Porsche" && insuree.CarModel == "911 Carrea")
-                {
-                    insuree.Quote += 25;
-                }
-                // speeding tickets quote
-                for (int i =0; i < insuree.SpeedingTickets; i++)
-                {
-                    insuree.Quote += 10;
-                }
-                // dui quote
-                if (insuree.DUI)
-                {
-                    double duiMult = 0.25;
-                    insuree.Quote += insuree.Quote * Convert.ToDecimal(duiMult);
-                }
-                // full coverage quote
-                if (insuree.CoverageType)
-                {
-                    double coverageMult = .50;
-                    insuree.Quote += insuree.Quote * Convert.ToDecimal(coverageMult);
-                }
-                return insuree.Quote;
-            }
             
+        }
+        public decimal CalculateQuote(Insuree insuree)
+        {
+            decimal age = DateTime.Now.Year - insuree.DateOfBirth.Year;
+            insuree.Quote = 50.0m;
+            if (age < 18)
+            {
+                insuree.Quote += 100;
+            }
+            if (age >= 19 && age < 25)
+            {
+                insuree.Quote += 50;
+            }
+            if (age > 25)
+            {
+                insuree.Quote += 25;
+            }
+            // car year quote
+            if (insuree.CarYear < 2000)
+            {
+                insuree.Quote += 25;
+            }
+            if (insuree.CarYear > 2015)
+            {
+                insuree.Quote += 25;
+            }
+            // car make and model quote
+            if (insuree.CarMake == "Porsche")
+            {
+                insuree.Quote += 25;
+            }
+            if (insuree.CarMake == "Porsche" && insuree.CarModel == "911 Carrea")
+            {
+                insuree.Quote += 25;
+            }
+            // speeding tickets quote
+            for (int i = 0; i < insuree.SpeedingTickets; i++)
+            {
+                insuree.Quote += 10;
+            }
+            // dui quote
+            if (insuree.DUI)
+            {
+                double duiMult = 0.25;
+                insuree.Quote += insuree.Quote * Convert.ToDecimal(duiMult);
+            }
+            // full coverage quote
+            if (insuree.CoverageType)
+            {
+                double coverageMult = .50;
+                insuree.Quote += insuree.Quote * Convert.ToDecimal(coverageMult);
+            }
+            return insuree.Quote;
+        }
+
 
         // GET: Insuree/Edit/5
         public ActionResult Edit(int? id)
@@ -138,6 +140,7 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {
+                insuree.Quote = CalculateQuote(insuree);
                 db.Entry(insuree).State = EntityState.Modified;
                 db.SaveChanges();
                 return RedirectToAction("Index");

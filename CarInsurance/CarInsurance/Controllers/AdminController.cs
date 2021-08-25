@@ -81,9 +81,21 @@ namespace CarInsurance.Controllers
 
                 // add totalQuote to list for quote
                 lstquotes.Quote = totalQuote;
-
-
+               
                 lstQuote.Add(lstquotes);
+                
+
+                quote.Quote = totalQuote;
+                
+                
+            }
+            try
+            {
+                db.SaveChanges();
+            }
+            catch(Exception ex)
+            {
+                Console.WriteLine(ex);
             }
             return View(lstQuote);
         }

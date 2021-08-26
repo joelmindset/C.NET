@@ -1,0 +1,12 @@
+C:\Users\joelm\source\repos\Final-chal-sub\Final-chal-sub\bin\Debug\Final-chal-sub.exe.config
+C:\Users\joelm\source\repos\Final-chal-sub\Final-chal-sub\bin\Debug\Final-chal-sub.exe
+C:\Users\joelm\source\repos\Final-chal-sub\Final-chal-sub\bin\Debug\Final-chal-sub.pdb
+C:\Users\joelm\source\repos\Final-chal-sub\Final-chal-sub\bin\Debug\EntityFramework.dll
+C:\Users\joelm\source\repos\Final-chal-sub\Final-chal-sub\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\joelm\source\repos\Final-chal-sub\Final-chal-sub\bin\Debug\EntityFramework.xml
+C:\Users\joelm\source\repos\Final-chal-sub\Final-chal-sub\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\joelm\source\repos\Final-chal-sub\Final-chal-sub\obj\Debug\Final-chal-sub.csproj.AssemblyReference.cache
+C:\Users\joelm\source\repos\Final-chal-sub\Final-chal-sub\obj\Debug\Final-chal-sub.csproj.CoreCompileInputs.cache
+C:\Users\joelm\source\repos\Final-chal-sub\Final-chal-sub\obj\Debug\Final-chal-sub.csproj.CopyComplete
+C:\Users\joelm\source\repos\Final-chal-sub\Final-chal-sub\obj\Debug\Final-chal-sub.exe
+C:\Users\joelm\source\repos\Final-chal-sub\Final-chal-sub\obj\Debug\Final-chal-sub.pdb

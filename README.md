@@ -8,11 +8,11 @@ Writing in C really helped me as a developer. Before I was always trying to brut
 <li>TwentyOne</li>
 -Black Jack poker app game. Here I learned how to set up a console app. Apply method, constructors, list, arrays, inheritance, database, logs, lambda, catch, switch, and much more. Pretty much everything for a basic console app. using .net framework
 <li>CarInsurance</li>
--Website for Insurer to get a quote and set up an admin view for the database. Using the .net framework
+-Website for Insurer to get a quote. DB set up with an admin view for the database. Using the .net framework MVC and Entities
 <li>Final-chal-sub</li>
 -Setting up a code first Db with entity framework and .net core
 <li>ChallengeSubAzure</li>
--My first azure website. Using the .net core framework.
+-My first azure website. Uploading to the azure cloud. Using the .net core framework. 
 <li>NewsletterMVC</li>
 -Using entity I was able to create a newsletter web app to add sign ups to DB and allow users to unsubscribe as well. Bootstrap for style.
 <li>Plus Many others.</li>

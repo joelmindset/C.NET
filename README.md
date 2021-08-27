@@ -18,5 +18,6 @@ Writing in C really helped me as a developer. Before I was always trying to brut
 <li>Plus Many others.</li>
 -There are a lot of basic projects I did as well. Feel free to look around.
 
+I learn so much when it comes to C# and all the syntax. I learned Microsoft MVC and it all made sense. Being able to debug and watch my program step by step was such a necessary tool. 
 
 
